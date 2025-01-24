@@ -2,7 +2,7 @@
   "name": "react",
   "version": "1.0.0",
   "description": "this is React course ",
-  "main": "app.js" ,
+  "main": "app.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.3"
   }
 }

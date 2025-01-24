@@ -68,3 +68,7 @@
     padding: 10px;
     margin-right: 10px;
 }
+.user-card{
+    padding: 5px;
+    border: 1px solid black;
+}
